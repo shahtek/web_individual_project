@@ -1,0 +1,11 @@
+body{background-color:#DFDFDF; font-family:arial;}
+.content_wrapper{ margin:100px auto; padding:0; width:1200px; background-color:#FFFFFF;}
+h1{margin:0;padding:0;}
+.content{padding:25px 45px;}
+p{ font-size:16px; font-weight:normal; line-height:130%; text-align:justify; }
+.footer{ padding:10px; background-color:#b1b54d}
+.box{ margin:50px 0;}
+.text-center{text-align:center;}
+.olist{}
+.olist li{ margin: 0 0 15px 0; line-height:120%; font-size:16px;}
+.footer p{text-align:center;}
